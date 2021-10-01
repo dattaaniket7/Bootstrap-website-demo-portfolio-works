@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Poppins', sans-serif;
+	color: #222;
+}
+.navbar {
+	background: #212529 !important;
+	padding: .2rem;
+	color: gainsboro;
+}
+.navbar img {
+	height: 2.5em;
+	border-radius: 50%;
+	padding-left: .8rem;
+}
+.navbar h5 {
+}
