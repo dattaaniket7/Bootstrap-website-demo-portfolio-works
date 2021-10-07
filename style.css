@@ -1,8 +1,16 @@
+html,
 body {
-	padding: 0%;
-	margin: 0%;
-	box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+	color: #222;
 }
-.container-fluid {
-	background: #212529;
+.navbar {
+	padding: .8rem;
+	background: #212529 !important;
+}
+.navbar-nav ul {
+	padding-right: 20px;
+}
+.nav-link {
+	font-size: 1.1em;
 }
