@@ -2,7 +2,6 @@ html,
 body {
 	height: 100%;
 	width: 100%;
-	color: #222;
 }
 .navbar {
 	padding: .8rem;
@@ -13,4 +12,5 @@ body {
 }
 .nav-link {
 	font-size: 1.1em;
+	color: gainsboro !important;
 }
