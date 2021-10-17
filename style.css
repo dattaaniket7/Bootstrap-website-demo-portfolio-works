@@ -37,3 +37,23 @@ body {
 	margin-top: .3rem;
 	margin-bottom: 1rem;
 }
+.btn {
+	margin-top: .5rem;
+	color: white;
+}
+.btn-primary {
+	background-color: #0d6efd;
+	border: 1px solid #0d6efd;
+}
+.btn-primary:hover {
+	background-color: #0b5ed7;
+	border: 1px solid #0a58ca;
+}
+.btn-secondary {
+	background-color: #6c757d;
+	border: 1px solid #6c757d;
+}
+.btn-secondary:hover {
+	background-color: #5c636a;
+	border: 1px solid #565e64;
+}
