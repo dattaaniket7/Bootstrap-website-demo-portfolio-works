@@ -70,3 +70,6 @@ body {
 	background-color: #000;
 	color: #fff !important;
 }
+.bg-dark {
+	background-color: #212529 !important;
+}
