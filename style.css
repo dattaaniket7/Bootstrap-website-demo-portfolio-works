@@ -73,3 +73,6 @@ body {
 .bg-dark {
 	background-color: #212529 !important;
 }
+.btn-floating {
+	border-radius: 100% !important;
+}
